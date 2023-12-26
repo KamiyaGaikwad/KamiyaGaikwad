@@ -20,7 +20,7 @@
 <a href="https://stackoverflow.com/users/19419726/kamiya">
 <img alt="stackoverflow Badge" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
-<a href="https://portfolio-kamiya-neogcamp.netlify.app/">
+<a href="https://kamiya-gaikwad-portfolio.vercel.app/">
 <img alt="Portfolio Badge" src="https://img.shields.io/badge/website-8F4FA0?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
 </div>
