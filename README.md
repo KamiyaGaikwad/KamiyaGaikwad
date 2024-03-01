@@ -36,7 +36,7 @@
 </h3>
 
 - 🔭 I’m currently working as a Frontend Developer. I create web applications and write technical blogs.
-- 🌱 I’m currently learning React from web development bootcamp.
+- 🌱 I’m proficient in ReactJs.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Kamiya is a Japanese name meaning 'divine valley'
 
